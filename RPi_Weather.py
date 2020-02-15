@@ -1,3 +1,22 @@
+#!/usr/bin/env python
+
+"""
+This is the core program enabling the local weather and date and time
+to be read for a location and parsed. This is intended to provide
+the base data to then be graphically displayed on a RPi 3" LCD screen,
+which will (may) be executed in a separate module
+"""
+__author__ = "Jason Karle"
+__copyright__ = "Copyright 2020, The RPi Weather Project"
+__credits__ = ["nil"]
+__license__ = "MIT"
+__version__ = "1.0.0"
+__maintainer__ = "Jason Karle"
+__email__ = "jasonpkarle@outlook.com"
+__status__ = "Development"
+
+#test
+
 # module imports
 import requests
 import datetime
