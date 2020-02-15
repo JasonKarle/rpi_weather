@@ -9,6 +9,8 @@ which will (may) be executed in a separate module.
 
 Simply download this file to your computer and then open in your Python IDE of choice. Please note that this will only run on Python 3.
 
+More instructions and details will be available in the future on the [RPi_Weather Wiki](https://github.com/JasonKarle/rpi_weather/wiki)
+
 ### Prerequisites
 
 1. Python 3
