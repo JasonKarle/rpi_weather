@@ -21,7 +21,7 @@ See "Getting Started" and "Prerequisites"
 
 ## Built With
 
-* [Atom](https://atom.io/) - The editor used 
+* [Atom](https://atom.io/) - The editor used
 * [Raspberry Pi 3](https://www.raspberrypi.org/) - The platform designed for
 * [MacBook Pro 13 inch](https://www.apple.com/) - The platform coded on
 
@@ -35,7 +35,7 @@ Nil
 
 ## Author(s)
 
-* **Jason Karle** - *Initial work* - [Jason Karle](https://github.com/JasonKarle)
+* **Initial Work** - [Jason Karle](https://github.com/JasonKarle)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
