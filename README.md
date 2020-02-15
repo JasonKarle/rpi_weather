@@ -1,4 +1,4 @@
-# Raspberry Pi Local Weather and Time
+# Raspberry Pi Weather Project: Local Weather and Time
 
 This is the core program enabling the local weather and date and time
 to be read for a location and parsed. This is intended to provide
