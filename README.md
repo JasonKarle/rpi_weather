@@ -1,78 +1,40 @@
-# Project Title
+# Raspberry Pi Local Weather and Time
 
-One Paragraph of project description goes here
+This is the core program enabling the local weather and date and time
+to be read for a location and parsed. This is intended to provide
+the base data to then be graphically displayed on a RPi 3" LCD screen,
+which will (may) be executed in a separate module.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Simply download this file to your computer and then open in your Python IDE of choice. Please note that this will only run on Python 3.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+1. Python 3
+2. an API key from openweathermap.org for the location you want the local weather
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+See "Getting Started" and "Prerequisites"
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Atom](https://atom.io/) - The editor used
+* [Raspberry Pi 3](https://www.raspberrypi.org/) - The platform designed for
+* [MacBook Pro 13 inch](https://www.apple.com/) - The platform coded on
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Nil
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+[SemVer](http://semver.org/) is used for versioning.
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Jason Karle** - *Initial work* - [Jason Karle](https://github.com/JasonKarle)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
@@ -82,6 +44,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* The many open sources of information, instruction, and guidance online!
