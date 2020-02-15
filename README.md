@@ -32,7 +32,7 @@ Nil
 
 [SemVer](http://semver.org/) is used for versioning.
 
-## Authors
+## Author(s)
 
 * **Jason Karle** - *Initial work* - [Jason Karle](https://github.com/JasonKarle)
 
