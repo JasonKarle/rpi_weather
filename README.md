@@ -12,7 +12,11 @@ Simply download this file to your computer and then open in your Python IDE of c
 ### Prerequisites
 
 1. Python 3
+<<<<<<< HEAD
 2. an API key from [OpenWeatherMap](https://openweathermap.org/api) for the location you want the local weather. Sign up for a free account and follow the directions to get your desired API key.
+=======
+2. an API key from [OpenWeatherMap] (https://openweathermap.org/api)for the location you want the local weather. Sign up for a free account and follow the directions to get your desired API key.
+>>>>>>> 69b35ba7b5b1738968e17ed1f997ee2fa390d4df
 
 ### Installing
 
